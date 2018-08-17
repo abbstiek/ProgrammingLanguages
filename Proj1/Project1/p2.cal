@@ -1,0 +1,8 @@
+program xyz is 
+begin
+  var foo, bar, cat;
+  foo = 200;
+  bar = 34;
+  cat = foo + bar div 2;
+  print cat    (* print out the cat var *)
+end

@@ -1,0 +1,8 @@
+program prog3 is 
+begin
+  var 1myvar, myvar2;   (* incorrect identifier name *)
+  1myvar = 023;
+  myvar2 = 0;
+  var myvar3;
+  myvar3 =? myvar1 + myvar2;   (* incorrect operation *)
+end

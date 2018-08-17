@@ -1,0 +1,6 @@
+program xyz is
+begin
+var a;
+a=;
+print a
+end

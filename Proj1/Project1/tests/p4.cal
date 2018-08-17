@@ -1,0 +1,10 @@
+program program4 is 
+begin
+  var @lpha35, alpha35;    
+  var beta27; 
+  var gamma53;
+  alpha35 = 2;
+  beta27 = 3;
+  gamma53 = (-alpha35 + beta27) * -3 div 2;   (* What is the result here?  *)   
+  print gamma53
+end
